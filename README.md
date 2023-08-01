@@ -8,7 +8,6 @@ Hello, i'm a front end developer. I am passionate about designing and developing
 
 * 🌍  I'm based in Toronto, Ontario.
 * ✉️  You can contact me at [simonoconnor28@gmail.com](mailto:simonoconnor28@gmail.com)
-* 🤝  I'm open to collaborating on projects to grow my knowledge as a developer.
 
 ### Skills
 
