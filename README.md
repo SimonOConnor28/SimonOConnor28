@@ -4,10 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I recently graduated from Juno College as a front end developer. I am passionate about designing and developing web pages built on react and javascript. I am currently looking to land a job at a company that strives to deliver high quality code, teach, and have a robust workspace that is built around communication, inclusivity, and diversity. Besides coding away all day you can catch me going on long bike rides throughout the beautiful city of Toronto or going away for the weekend with my camping group at the end of the summer/fall time.
+Hello, i'm a front end developer. I am passionate about designing and developing web pages built on react and shopify. I am currently looking to land a job at a company that strives to deliver high quality code, teach, and have a robust workspace that is built around communication, inclusivity, and diversity. Besides coding away all day you can catch me going on long bike rides throughout the beautiful city of Toronto or going away for the weekend with my camping group at the end of the summer/fall time.
 
 * 🌍  I'm based in Toronto, Ontario.
-* 🖥️  See my portfolio at [https://www.simonoconnor.ca/](http://www.simonoconnor.ca/)
 * ✉️  You can contact me at [simonoconnor28@gmail.com](mailto:simonoconnor28@gmail.com)
 * 🤝  I'm open to collaborating on projects to grow my knowledge as a developer.
 
